@@ -1,4 +1,4 @@
-# vinove_attendence
+# attendence
 
 A new Flutter project.
 
