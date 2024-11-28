@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'attendance_screen.dart';
 
 void main() {
@@ -51,6 +52,11 @@ class HomeScreen extends StatelessWidget {
               },
             ),
             // Add other ListTile widgets for menu items here.
+            ListTile(
+              leading: Icon(Icons.timer),
+              title: Text('Activity'),
+              onTap: () {},
+            ),
           ],
         ),
       ),

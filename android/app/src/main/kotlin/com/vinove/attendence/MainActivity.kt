@@ -1,4 +1,4 @@
-package com.example.vinove_attendence
+package com.vinove.attendence
 
 import io.flutter.embedding.android.FlutterActivity
 
